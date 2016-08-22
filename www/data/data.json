@@ -1,0 +1,21 @@
+{
+  "map": [{
+      "name": "Royal Albert Hall",
+      "lat": 51.501015,
+      "lng": -0.177287
+    }, {
+      "name": "The British Museum",
+      "lat": 51.51941,
+      "lng": -0.12695
+    }, {
+      "name": "Southbank Centre",
+      "lat": 51.50577,
+      "lng": -0.11669
+    }, {
+      "name": "Abbey Road Studios",
+      "lat": 51.5320754,
+      "lng": -0.1780759,
+      "special": true
+    }
+  ]
+}
